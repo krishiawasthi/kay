@@ -1,4 +1,4 @@
-# 💰 Professional Finance Tracker
+# 💰 Personal Finance Tracker
 
 A modern, professional personal finance management application built with Python.
 
